@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner Image -->
-  <img src="https://your-banner-image-url.com" alt="Banner Image" style="width: 100%; height: auto; border-radius: 10px;">
+  <img src="https://github.com/ojitharajapaksha/ojitharajapaksha/blob/main/1706664339515.jpg" alt="Banner Image">
 
   <h1>💫 About Me</h1>
 </div>
