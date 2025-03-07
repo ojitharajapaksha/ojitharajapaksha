@@ -61,8 +61,8 @@
 
 <h2>📈 Visitor Count</h2>
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ojitharajapaksha&icon=0&color=0" alt="Visit Count">
+  <a href="https://hitcounter.pythonanywhere.com/">
+    <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/ojitharajapaksha" alt="Visitor Count">
   </a>
 </div>
 
