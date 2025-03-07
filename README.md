@@ -10,7 +10,7 @@
 </p>
 
 <p style="text-align: center; font-size: 16px; font-weight: bold;">
-  Check out my portfolio at <a href="https://ojitharajapaksha.dev" target="_blank" style="color: #007bff;">ojitharajapaksha.dev</a>
+  Check out my portfolio at <a href="https://ojitharajapaksha.dev" target="_blank" style="color: #007bff;"></a>
 </p>
 
 ---
