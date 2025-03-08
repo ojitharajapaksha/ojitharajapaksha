@@ -13,7 +13,7 @@
   Check out my portfolio at <a href="https://ojitharajapaksha.dev" target="_blank" style="color: #007bff;"></a>
 </p>
 
----
+
 
 <h2>🌐 Connect With Me</h2>
 <div align="center">
@@ -24,7 +24,7 @@
   <a href="mailto:ojitharajapaksha@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
----
+
 
 <h2>💻 Tech Stack</h2>
 <p style="font-size: 16px; line-height: 1.6;">
@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
 </div>
 
----
+
 
 <h2>💻 Software Skills</h2>
 <p style="font-size: 16px; line-height: 1.6;">
@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/MS%20Office-%2336F2C2.svg?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="MS Office">
 </div>
 
----
+
 
 <h2>📊 GitHub Stats</h2>
 <div align="center">
@@ -66,7 +66,7 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=ojitharajapaksha&theme=dark&hide_border=false" alt="GitHub Streak">
 </div>
 
----
+
 
 <h2>🔝 Top Contributed Repo</h2>
 <div align="center">
