@@ -68,6 +68,13 @@
 
 
 
+<h2>🗣️ Most Used Languages</h2>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojitharajapaksha&layout=compact&theme=dark&hide_border=false" alt="Most Used Languages">
+</div>
+
+
+
 <h2>🔝 Top Contributed Repo</h2>
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=ojitharajapaksha&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
