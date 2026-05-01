@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Undergraduate;Software+Engineering+Enthusiast;Full-Stack+Developer;Machine+Learning+Explorer;Building+Modern+Digital+Solutions" alt="Typing SVG" />
 
   <p>
-    <a href="https://ojitharajapaksha.dev">
+    <a href="https://ojitharajapaksha.com">
       <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
     <a href="mailto:ojitharajapaksha@gmail.com">
@@ -60,7 +60,7 @@ In 2026, my focus is on:
 ## 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,tailwind,spring,mysql,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.com/icons?i=java,python,html,css,js,react,tailwind,spring,mysql,git,github,vscode&theme=dark" />
 </div>
 
 ---
@@ -115,8 +115,8 @@ In 2026, my focus is on:
 ## 📌 Portfolio
 
 <div align="center">
-  <a href="https://ojitharajapaksha.dev">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-ojitharajapaksha.dev-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
+  <a href="https://ojitharajapaksha.com">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-ojitharajapaksha.com-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
   </a>
 </div>
 
