@@ -1,127 +1,225 @@
 <div align="center">
-  <img src="https://github.com/ojitharajapaksha/ojitharajapaksha/blob/main/1706664339515.jpg" alt="Banner Image" width="100%" />
 
-  <h1>Hi there, I'm Ojitha Rajapaksha 👋</h1>
-  <h3>Computer Science Undergraduate | Software Engineering Enthusiast | Full-Stack Developer</h3>
+<img src="1706664339515.jpg" alt="Ojitha Rajapaksha Banner" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Undergraduate;Software+Engineering+Enthusiast;Full-Stack+Developer;Machine+Learning+Explorer;Building+Modern+Digital+Solutions" alt="Typing SVG" />
+# Hi there, I'm Ojitha Rajapaksha
 
-  <p>
-    <a href="https://ojitharajapaksha.com">
-      <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="mailto:ojitharajapaksha@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.linkedin.com/in/ojitha-rajapaksha-10b126269/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
+### Computer Science Undergraduate • Software Engineer • Full-Stack Developer
+
+<p>
+  <strong>Building modern digital solutions with code, creativity & curiosity.</strong>
+</p>
+
+<br>
+
+<a href="https://ojitharajapaksha.com">
+  <img src="https://img.shields.io/badge/Portfolio-ojitharajapaksha.com-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+</a>
+
+<a href="mailto:ojitharajapaksha@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<a href="https://www.linkedin.com/in/ojitha-rajapaksha-10b126269/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
 </div>
 
 ---
 
-## 💫 About Me
+## About Me
 
-I'm a **Computer Science undergraduate at the University of Westminster** with a strong passion for **software engineering, web development, machine learning, and digital product design**.
+I'm a **Computer Science undergraduate at the University of Westminster** with a strong interest in **software engineering, full-stack development, machine learning, cyber security, and digital product development**.
 
-I enjoy building **responsive, user-focused, and practical applications** that solve real-world problems. I’m especially interested in combining **technical development with creativity** to create solutions that are both functional and visually engaging.
+I enjoy turning ideas into practical software solutions and working across the entire development lifecycle — from **requirements and system design to development, deployment, and maintenance**.
 
-In 2026, my focus is on:
-- Building impactful full-stack applications
-- Exploring machine learning for real-world use cases
-- Creating clean, scalable, and modern user experiences
-- Continuously improving as a software engineer
+I'm particularly interested in creating applications that are:
+
+* Scalable
+* Modern and user-friendly
+* High-performing
+* Secure
+* Intelligent
+* Practical and impactful
 
 ---
 
-## 🌐 Connect With Me
+## What I'm Currently Working On
+
+```text
+Full-Stack Development
+Machine Learning & AI
+Explainable AI
+Cyber Security
+Software Architecture
+Cloud & DevOps
+Modern UI/UX
+Continuous Learning
+```
+
+---
+
+## Tech Stack
+
+### Languages
 
 <div align="center">
-  <a href="https://www.facebook.com/profile.php?id=100075740273687">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/ojitharajapaksha/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/ojitha-rajapaksha-10b126269/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.youtube.com/@OjithaRajapaksha">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="mailto:ojitharajapaksha@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css" alt="Programming Languages" />
+
+</div>
+
+### Frontend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend Technologies" />
+
+</div>
+
+### Backend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" alt="Backend Technologies" />
+
+</div>
+
+### Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma" alt="Database Technologies" />
+
+</div>
+
+### DevOps & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vercel" alt="Development Tools" />
+
 </div>
 
 ---
 
-## 🚀 Tech Stack
+## Additional Technologies
 
 <div align="center">
-  <img src="https://skillicons.com/icons?i=java,python,html,css,js,react,tailwind,spring,mysql,git,github,vscode&theme=dark" />
+
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab" />
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+
+<img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio" />
+
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
+
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+
+<img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black" alt="PyCharm" />
+
 </div>
 
 ---
 
-## 🧰 Tools & Software
+## Development Areas
+
+| Area                     | Technologies                                         |
+| :----------------------- | :--------------------------------------------------- |
+| **Frontend Development** | React, Next.js, TypeScript, JavaScript, Tailwind CSS |
+| **Backend Development**  | Node.js, Express.js, Spring Boot                     |
+| **Database Development** | PostgreSQL, MySQL, MongoDB, Prisma                   |
+| **API Development**      | REST APIs, Socket.IO                                 |
+| **Machine Learning**     | Python, Machine Learning, Explainable AI             |
+| **Cyber Security**       | Application Security, Secure Software Development    |
+| **Cloud & Deployment**   | Vercel, Render, Firebase                             |
+| **DevOps**               | Git, GitHub, Docker                                  |
+| **UI/UX**                | Responsive Design, Modern Interfaces                 |
+| **Software Engineering** | System Design, Architecture, Testing, Maintenance    |
+
+---
+
+## Development Philosophy
+
+```text
+Learn       → Understand the problem
+Design      → Plan the solution
+Build       → Turn ideas into software
+Test        → Make it reliable
+Deploy      → Take it to the real world
+Improve     → Keep learning and evolving
+```
+
+---
+
+## Currently Learning
+
+* Advanced Machine Learning
+* Explainable AI
+* Multimodal AI
+* Cyber Security
+* Cloud Architecture
+* Docker & Containerisation
+* CI/CD
+* Scalable System Architecture
+* Application Security
+
+---
+
+## Professional Experience
+
+### Software Engineering
+
+My experience includes working on real-world software projects involving:
+
+* Full-stack application development
+* Backend API development
+* Database design
+* System maintenance
+* Deployment and infrastructure
+* Production support
+* User training
+* Digital platform development
+* Software prototyping
+
+---
+
+## Connect With Me
 
 <div align="center">
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
-  <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black" alt="PyCharm" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab" />
-  <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="MS Office" />
+
+<a href="https://www.linkedin.com/in/ojitharajapaksha/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://www.instagram.com/ojitharajapaksha/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=100075740273687">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+
+<a href="https://www.youtube.com/@OjithaRajapaksha">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
+
+<a href="mailto:ojitharajapaksha@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
 </div>
 
 ---
 
-## 📈 GitHub Stats
-
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ojitharajapaksha&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://nirzak-streak-stats.vercel.app/?user=ojitharajapaksha&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
 
----
+### Learn • Build • Improve • Repeat
 
-## 🧠 Most Used Languages
+<strong>Designed with passion, built with purpose, and driven by continuous learning.</strong>
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojitharajapaksha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-## 📊 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ojitharajapaksha&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-## ✨ Current Focus
-
-- Full-stack web application development
-- Modern UI/UX design
-- Machine learning projects with real-world impact
-- Building scalable and user-friendly digital products
-
----
-
-## 📌 Portfolio
-
-<div align="center">
-  <a href="https://ojitharajapaksha.com">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-ojitharajapaksha.com-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <sub>Designed with passion, purpose, and continuous learning 🚀</sub>
 </div>
